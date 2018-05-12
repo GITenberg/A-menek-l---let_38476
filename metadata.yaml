@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39489
     wikipedia: http://en.wikipedia.org/wiki/Endre_Ady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38476#A-menek-l---let
 gutenberg_issued: '2012-01-03'
 gutenberg_type: Text
 identifiers:
